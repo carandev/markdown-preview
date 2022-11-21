@@ -51,7 +51,7 @@ function markdownToHtml() {
 .main {
   display: flex;
   gap: 9rem;
-  justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
   color: #eee;
   padding: 2rem;
@@ -78,7 +78,7 @@ function markdownToHtml() {
   overflow-y: scroll;
 }
 
-@media screen and (max-width: 1020px) {
+@media screen and (max-width: 1040px) {
   .section {
     width: 80vw;
   }

@@ -1,12 +1,13 @@
 # Convertir el nombre de una película en emojies 🎞📽
 
-Este proyecto surgió como idea gracias a los ejemplos que hay en la API de OpenAI.
+Este proyecto surgió gracias a la librería marked que permite convertir markdown a HTML
 
 ### Tecnologías usadas:
 - [Vue JS](https://vuejs.org/)
 - [OpenAI API](https://openai.com/api/)
 - [Vite JS](https://vitejs.dev)
 - [Vercel](https://vercel.com)
+- [Marked](https://marked.js.org/)
 
 ## Funcionamiento:
 

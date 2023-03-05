@@ -1,35 +1,15 @@
-# markdown-preview
+# Convertir el nombre de una película en emojies 🎞📽
 
-This template should help get you started developing with Vue 3 in Vite.
+Este proyecto surgió como idea gracias a los ejemplos que hay en la API de OpenAI.
 
-## Recommended IDE Setup
+### Tecnologías usadas:
+- [Vue JS](https://vuejs.org/)
+- [OpenAI API](https://openai.com/api/)
+- [Vite JS](https://vitejs.dev)
+- [Vercel](https://vercel.com)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Funcionamiento:
 
-## Customize configuration
+Contiene un textarea para escribir el código markdown he inmediatamente se puede visualizar el contenido convertido a HTML
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+![Una imagen de la app que tiene un título, un textarea ](https://raw.githubusercontent.com/carandev/markdown-preview/main/.github/main.png)

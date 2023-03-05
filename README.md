@@ -12,4 +12,4 @@ Este proyecto surgió como idea gracias a los ejemplos que hay en la API de Open
 
 Contiene un textarea para escribir el código markdown he inmediatamente se puede visualizar el contenido convertido a HTML
 
-![Una imagen de la app que tiene un título, un textarea ](https://raw.githubusercontent.com/carandev/markdown-preview/main/.github/main.png)
+![Una imagen de la app que tiene un título, un textarea ](https://raw.githubusercontent.com/carandev/markdown-preview/main/.github/home.png)

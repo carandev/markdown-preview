@@ -1,4 +1,4 @@
-# Convertir el nombre de una película en emojies 🎞📽
+# Previsualizador de Markdown ↔️
 
 Este proyecto surgió gracias a la librería marked que permite convertir markdown a HTML
 
